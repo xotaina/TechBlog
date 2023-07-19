@@ -1,9 +1,9 @@
 const express = require('express');
-const routes = require('./controllers');
-const sequelize = require('./config/connection');
+const routes = require('./mvc-tech-blog/controllers');
+const sequelize = require('./mvc-tech-blog/config/connection');
 const path = require('path');
 
-const helpers = require('./utils/helpers');
+const helpers = require('./mvc-tech-blog/utils/helpers');
 
 const exphbs = require('express-handlebars');
 const hbs = exphbs.create({ helpers });
