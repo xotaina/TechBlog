@@ -1,5 +1,5 @@
 
-# Project Name Tech-Blog
+# Project Name TechBlog
 
 # Project URL
 https://github.com/xotaina/TechBlog
